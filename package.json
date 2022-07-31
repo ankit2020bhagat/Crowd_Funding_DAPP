@@ -1,0 +1,17 @@
+{
+  "name": "crowd_funding",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ankit kumar",
+  "license": "MIT",
+  "dependencies": {
+    "web3": "^1.7.4"
+  }
+}
